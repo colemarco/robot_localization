@@ -1,0 +1,11 @@
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/uninstall.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/robot_localization_uninstall.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/ament_cmake_python_copy_robot_localization.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/ament_cmake_python_build_robot_localization_egg.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/test.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/edit_cache.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/rebuild_cache.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/list_install_components.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/install.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/install/local.dir
+/home/cmarco/ros2_ws/src/robot_localization/build/CMakeFiles/install/strip.dir
